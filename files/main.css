@@ -78,7 +78,7 @@ nav.sticky + .socialInfo { margin-top: 0; top: 80px; position: fixed; }
 .instagramFeed .instaWash .container { top: 50%; position: relative; -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); transform: translateY(-50%); }
 
 footer { background-color: #272727; padding: 150px 0; text-align: center; }
-footer img { width: 254px; }
+footer img { width: 225px; }
 
 .credits { background-color: black; padding: 20px 0; text-align: center; }
 .credits a { color: #545454; -webkit-transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -ms-transition: all .25s ease-in-out; -o-transition: all .25s ease-in-out; transition: all .25s ease-in-out; }
